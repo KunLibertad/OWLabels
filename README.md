@@ -3,13 +3,17 @@ Similar to StreamLabs labels but is focused on Overwatch Player statistics data.
 
 # Requirements
 Microsoft Windows 7 and above
+
 Microsoft .NET Framework 4.7.2
+
 128 MB of RAM
+
 10 MB of disk space
+
 
 # Setup
 
-IMPORTANT NOTE: The overwatch profile mus be PUBLIC.
+IMPORTANT NOTE: The overwatch profile must be PUBLIC.
 
 1.- Download OWLables and put it somewhere on your computer
 
